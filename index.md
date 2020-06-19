@@ -49,10 +49,9 @@ The network includes gradient check and dropout. github.com/YaShock/neural-netwo
 For my thesis I wrote a text analyzing tool that integrates Elasticsearch, an ontology,
 and R functions to manipulate uploaded documents. The system provides a RESTful service
 and a natural language interface for those operations. github.com/YaShock/Thesis
-Earley parser generator
-I have written a parser generator in Python which generates an 
 
-#### Earley parser from a grammar.
+#### Earley parser generator
+I have written a parser generator in Python which generates an Earley parser from a grammar.
 The grammar description is based on EBNF and is extended to include semantics in form of
 arbitrary Python functions. github.com/YaShock/EarleyParser
 
