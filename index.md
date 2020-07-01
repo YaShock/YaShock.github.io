@@ -37,32 +37,32 @@ I took part in a team programming competition where we achieved third place. Dur
 
 ## Projects
 
-#### Formulator
-A mathematical expression parser with advanced in-built formulas.
-It was written in C++ using Qt. github.com/YaShock/Formulator
-
-#### Neural network
-A simple implementation of neural network in C++ program.
-The network includes gradient check and dropout. github.com/YaShock/neural-network-cpp
-
-#### Text analyzing system with natural language interface
-For my thesis I wrote a text analyzing tool that integrates Elasticsearch, an ontology,
-and R functions to manipulate uploaded documents. The system provides a RESTful service
-and a natural language interface for those operations. github.com/YaShock/Thesis
+#### IsoEngine
+It is an on-going 2D isometric game engine project mostly for educational purposes. It's aim is to provide a lightweight 2D engine written in modern C++. Currently it uses SFML but it will be swapped for Vulkan.
+<i class="fab fa-github"></i> [IsoEngine](https://github.com/metricengine/IsoEngine)
 
 #### Earley parser generator
 I have written a parser generator in Python which generates an Earley parser from a grammar.
 The grammar description is based on EBNF and is extended to include semantics in form of
-arbitrary Python functions. github.com/YaShock/EarleyParser
+arbitrary Python functions.
+<i class="fab fa-github"></i> [EarleyParser](https://github.com/YaShock/EarleyParser)
 
-#### Graphics assignment
-A rolling sphere inside a torus with procedural textures and 2 moving light sources.
-Written in C++ using OpenGL with glut.
+#### Color generator
+An application that can generate perceptually uniform palettes using CIE LCH(uv) space. It is based on the paper "Synthesis of color palettes" by MWH Martijn Wijffelaars. It was written in C++ using wxWidgets.
+<i class="fab fa-github"></i> [color-generator](https://github.com/YaShock/color-generator)
+
+#### Neural network
+A simple implementation of neural network in C++ program.
+The network includes gradient check and dropout.
+<i class="fab fa-github"></i> [NeuralNetwork](https://github.com/YaShock/NeuralNetwork)
 
 #### Task manager
-I have worked on a task manager application to gain experience in full-stack development.
-Backend uses Flask for REST and SQLAlchemy for database, and a dedicated
-front-end is implemented with Vue.js. 
+A simple task manager project used for my own purposes. It is built using Flask and it's hosted on Heroku.
+<i class="fab fa-github"></i> [Produsys](https://github.com/YaShock/Produsys)
+
+#### 2D Tower Defense Game
+A 2D tile based tower defense game. It was written as a short project for university in Java.
+<i class="fab fa-github"></i> [Tower-Defense](https://github.com/YaShock/Tower-Defense)
 
 ## Education
 
