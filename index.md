@@ -4,6 +4,9 @@
 
 ---
 title: Jakov [Rabinovits]{.lastName}
+margin-bottom: 1.3in
+margin-left: 0.5in
+margin-right: 0.5in
 ---
 
 <i class="fas fa-mobile-alt"></i> +36 20 929 3193 | <i class="far fa-envelope"></i> jakov.rabinovits@gmail.com | <i class="fab fa-linkedin"></i> [jakov-rabinovits](http://linkedin.com/in/jakov-rabinovits) | <i class="fab fa-github"></i> [YaShock](http://github.com/YaShock)
@@ -27,7 +30,7 @@ I took part in a team programming competition where we achieved third place. Dur
 
 [Programming languages:]{.blue} C | C++ | D | Java | C# | Python | JavaScript
 
-[Frameworks:]{.blue} OpenGL | Qt |.NET | ANTLR | JavaCC | Flask | OpenCV | Eigen | Boost ASIO
+[Frameworks:]{.blue} OpenGL | Qt | wxWidgets | Gtk |.NET | ANTLR | JavaCC | Flask | OpenCV | Eigen | Boost ASIO
 
 [Tools:]{.blue} Github | Eclipse | Visual Studio | Android Studio | SQL | Elasticsearch
 
