@@ -15,7 +15,7 @@ margin-right: 0.5in
 
 ### **SignAll Technologies** | Research And Development Engineer
 `February 2018 - Present`
-Currently working there as a research and development engineer. My tasks are researching and implementing machine learning algorithms, working with OpenCV,  Eigen libraries.
+Currently working there as a research and development engineer. My tasks are researching, implementing machine learning and domain specific algorithms, REST APIs, ASP MVC web pages, designing socket communication protocols, 3D visualizations with custom graphics engine, maintaining and extending custom database solutions, writing service applications. Some of the libraries, frameworks used: OpenCV, Eigen, Boost ASIO, ASP.NET MVC/Web, WPF, PostgreSQL.
 
 ### **Cloudera** | Software Engineering Intern
 `June 2017 - Aug 2017`
@@ -28,30 +28,29 @@ I took part in a team programming competition where we achieved third place. Dur
 
 ## Skills
 
-[Programming languages:]{.blue} C | C++ | D | Java | C# | Python | JavaScript
+[Programming languages:]{.blue} C | C++ | D | Java | C# | Swift | Python | JavaScript
 
-[Frameworks:]{.blue} OpenGL | Qt | wxWidgets | Gtk |.NET | ANTLR | JavaCC | Flask | OpenCV | Eigen | Boost ASIO
+[Frameworks:]{.blue}  VueJS | Qt | .NET | wxWidgets | Gtk | Swing | SFML | OpenGL | ANTLR | JavaCC | Flask | ASP.NET | Web API | MVC | OpenCV | Eigen | Boost ASIO
 
-[Tools:]{.blue} Github | Eclipse | Visual Studio | Android Studio | SQL | Elasticsearch
+[Tools:]{.blue} CMake | Github | Eclipse | Intellij | Sublime Text | VS Code | Visual Studio | Android Studio | SQL | Elasticsearch | Heroku
 
-[Mathematics:]{.blue} Linear algebra | Discrete maths | Theory of algorithms
+[Mathematics:]{.blue} Linear algebra | Discrete maths | Theory of algorithms | Probability theory
 
-[Other:]{.blue} Teaching and mentoring | Artificial Intelligence | Software and Systems Modeling | Formal grammars | Big Data | Socket programming
+[Other:]{.blue} Teaching and mentoring | Artificial Intelligence | Software and Systems Modeling | Formal language theory | Big Data | Socket programming | Graphics
 
 ## Projects
 
 #### IsoEngine
-It is an on-going 2D isometric game engine project mostly for educational purposes. It's aim is to provide a lightweight 2D engine written in modern C++. Currently it uses SFML but it will be swapped for Vulkan.
+It is an on-going 2D isometric game engine project built mostly for educational purposes. Its aim is to provide a lightweight 2D engine written in modern C++. Currently it uses SFML but it will be swapped for Vulkan.
 <i class="fab fa-github"></i> [IsoEngine](https://github.com/metricengine/IsoEngine)
 
 #### Earley parser generator
-I have written a parser generator in Python which generates an Earley parser from a grammar.
-The grammar description is based on EBNF and is extended to include semantics in form of
-arbitrary Python functions.
+It is a parser generator written in Python which generates an Earley parser from a description of grammar.
+The grammar description is based on EBNF and is extended to include semantics in form of arbitrary Python functions.
 <i class="fab fa-github"></i> [EarleyParser](https://github.com/YaShock/EarleyParser)
 
 #### Color generator
-An application that can generate perceptually uniform palettes using CIE LCH(uv) space. It is based on the paper "Synthesis of color palettes" by MWH Martijn Wijffelaars. It was written in C++ using wxWidgets.
+An application that can generate perceptually uniform palettes using CIE LCH(uv) space. It is based on the paper "Synthesis of color palettes" by MWH Martijn Wijffelaars. It was initially written in D using Gtk and later redesigned in C++ using wxWidgets.
 <i class="fab fa-github"></i> [color-generator](https://github.com/YaShock/color-generator)
 
 #### Neural network
@@ -60,11 +59,11 @@ The network includes gradient check and dropout.
 <i class="fab fa-github"></i> [NeuralNetwork](https://github.com/YaShock/NeuralNetwork)
 
 #### Task manager
-A simple task manager project used for my own purposes. It is built using Flask and it's hosted on Heroku.
+A task manager project used for my own purposes. It is built using Flask and is hosted on Heroku.
 <i class="fab fa-github"></i> [Produsys](https://github.com/YaShock/Produsys)
 
-#### 2D Tower Defense Game
-A 2D tile based tower defense game. It was written as a short project for university in Java.
+#### 2D Tower Defense game
+A 2D tile based tower defense game. It was written as a short project for university in Java using Swing.
 <i class="fab fa-github"></i> [Tower-Defense](https://github.com/YaShock/Tower-Defense)
 
 ## Education
@@ -77,20 +76,16 @@ Computer Science Engineering BSc (Systems Engineering specialization)
 ## Strengths
 
 #### Teamwork
-I have been working on a podcast with a German collaborator and I have participated in multiple
-team.projects, programming competitions.
+I have been working on a podcast with a German collaborator and I have participated in multiple team projects, programming competitions.
 
 #### Abstract thinking, problem solving
 Instead of using ad hoc methods I like to solve problems in a more abstract and reusable way.
 
 #### Teaching and mentoring
-I have been tutoring C++, C# and Java and mentoring my students on their projects
-for the past two years. I have tutored in both English and Hungarian.
+I have been tutoring C++, C# and Java and mentoring my students on their projects for the past two years. I have tutored in both English and Hungarian.
 
 #### Eager to learn
-I am comfortable with learning new skills and solving problems on the spot without prior studies
-in the field. I learned Python, Scala and other platforms that are not part of the university
-program.
+I am comfortable with learning new skills and solving problems on the spot without prior studies in the field. I learned Python, Scala and other platforms that are not part of the university program.
 
 ## Languages
 
@@ -100,6 +95,7 @@ program.
 | Russian:  | native   |
 | English:  | fluent   |
 | German:   | beginner |
+| ASL:      | beginner |
 
 ## Other interests
 
