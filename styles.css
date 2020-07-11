@@ -10,13 +10,67 @@
     color: #3d85c6;
 }
 
+h4 {
+    margin-top: 1em;
+    margin-bottom: 0.2em;
+    color: #3d85c6;
+}
+
+p {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+}
+
+/* Two column mode only for wide screens */
+@media only screen and (min-width: 600px) {
+    body, div, span, h1, h2, h3,
+    p, a, code, strike, strong,
+    b, u, i, table, tbody,
+    thead, tr, th, td, section {
+        margin: 0;
+        padding: 0;
+        border: 0;
+    }
+
+    p, table, h3, h4 {
+        position: relative;
+        left: 28%;
+        width: 70%;
+    }
+
+    h1, h2, h3, h4 {
+        width: 65%;
+        position: relative;
+    }
+
+    h1 {
+        left: 28%;
+    }
+
+    h2 {
+        width: 18%;
+        left: 10%;
+    }
+
+    h4 {
+        margin-top: 0em;
+        margin-bottom: 2 em;
+    }
+
+    p {
+        margin-top: 0em;
+        margin-bottom: 0.6em;
+    }
+
+    table {
+        width: 25%;
+    }
+}
+
 body, div, span, h1, h2, h3,
 p, a, code, strike, strong,
 b, u, i, table, tbody,
 thead, tr, th, td, section {
-    margin: 0;
-    padding: 0;
-    border: 0;
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
@@ -29,19 +83,9 @@ body {
     font-family: Verdana, sans-serif;
 }
 
-p, table, h3, h4 {
-    position: relative;
-    left: 28%;
-    margin-bottom: 0.2em;
-    margin-right: 0;
-    width: 70%;
-}
-
 h1, h2, h3, h4 {
     font-weight: 400;
     font-family: Cousine, Verdana, sans-serif;
-    width: 65%;
-    position: relative;
 }
 
 h1 {
@@ -50,7 +94,6 @@ h1 {
     text-align: left;
     font-size: 3em;
     line-height: 1em;
-    left: 28%;
 }
 
 h2 {
@@ -60,23 +103,11 @@ h2 {
     font-size: 1.1em;
     top: 1.2em;
     text-align: left;
-    width: 18%;
-    left: 10%;
     font-weight: bold;
 }
 
 h3 {
     margin-bottom: 0;
-}
-
-h4 {
-    margin-top: 0.3em;
-    margin-bottom: 2 em;
-    color: #3d85c6;
-}
-
-p {
-    margin-bottom: 0.6em;
 }
 
 code {
@@ -101,8 +132,4 @@ em {
 
 strong {
     font-weight: bold;
-}
-
-table {
-    width: 25%;
 }

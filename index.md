@@ -4,12 +4,12 @@
 
 ---
 title: Jakov [Rabinovits]{.lastName}
-margin-bottom: 1.3in
+margin-bottom: 1.5in
 margin-left: 0.5in
 margin-right: 0.5in
 ---
 
-<i class="fas fa-mobile-alt"></i> +36 20 929 3193 | <i class="far fa-envelope"></i> jakov.rabinovits@gmail.com | <i class="fab fa-linkedin"></i> [jakov-rabinovits](http://linkedin.com/in/jakov-rabinovits) | <i class="fab fa-github"></i> [YaShock](http://github.com/YaShock)
+<i class="fas fa-mobile-alt"> +36 20 929 3193</i> | <i class="far fa-envelope"> jakov.rabinovits@gmail.com</i> | <i class="fab fa-linkedin"> [jakov-rabinovits](http://linkedin.com/in/jakov-rabinovits)</i> | <i class="fab fa-github"> [YaShock](http://github.com/YaShock)</i>
 
 ## Experience
 
@@ -42,29 +42,29 @@ I took part in a team programming competition where we achieved third place. Dur
 
 #### IsoEngine
 It is an on-going 2D isometric game engine project built mostly for educational purposes. Its aim is to provide a lightweight 2D engine written in modern C++. Currently it uses SFML but it will be swapped for Vulkan.
-<i class="fab fa-github"></i> [IsoEngine](https://github.com/metricengine/IsoEngine)
+<i class="fab fa-github"> [IsoEngine](https://github.com/metricengine/IsoEngine)</i>
 
 #### Earley parser generator
 It is a parser generator written in Python which generates an Earley parser from a description of grammar.
 The grammar description is based on EBNF and is extended to include semantics in form of arbitrary Python functions.
-<i class="fab fa-github"></i> [EarleyParser](https://github.com/YaShock/EarleyParser)
+<i class="fab fa-github"> [EarleyParser](https://github.com/YaShock/EarleyParser)</i>
 
 #### Color generator
 An application that can generate perceptually uniform palettes using CIE LCH(uv) space. It is based on the paper "Synthesis of color palettes" by MWH Martijn Wijffelaars. It was initially written in D using Gtk and later redesigned in C++ using wxWidgets.
-<i class="fab fa-github"></i> [color-generator](https://github.com/YaShock/color-generator)
+<i class="fab fa-github"> [color-generator](https://github.com/YaShock/color-generator)</i>
 
 #### Neural network
 A simple implementation of neural network in C++ program.
 The network includes gradient check and dropout.
-<i class="fab fa-github"></i> [NeuralNetwork](https://github.com/YaShock/NeuralNetwork)
+<i class="fab fa-github"> [NeuralNetwork](https://github.com/YaShock/NeuralNetwork)</i>
 
 #### Task manager
 A task manager project used for my own purposes. It is built using Flask and is hosted on Heroku.
-<i class="fab fa-github"></i> [Produsys](https://github.com/YaShock/Produsys)
+<i class="fab fa-github"> [Produsys](https://github.com/YaShock/Produsys)</i>
 
 #### 2D Tower Defense game
 A 2D tile based tower defense game. It was written as a short project for university in Java using Swing.
-<i class="fab fa-github"></i> [Tower-Defense](https://github.com/YaShock/Tower-Defense)
+<i class="fab fa-github"> [Tower-Defense](https://github.com/YaShock/Tower-Defense)</i>
 
 ## Education
 

@@ -5,3 +5,5 @@ To build the HTML page install _pandoc_ and run the following command:
 
 For a PDF build run the following command:
 `pandoc -t html --css styles.css index.md -o output.pdf`
+
+Due to PDF ignoring @media style, a temporary work-around is to comment out __@media only__ part to get two-column representation.
