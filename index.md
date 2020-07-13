@@ -38,7 +38,7 @@ I have been tutoring C++, C#, Java, Python and general programming principles an
 
 [Mathematics:]{.blue} Linear algebra | Discrete maths | Theory of algorithms | Probability theory
 
-[Other:]{.blue} Artificial Intelligence | Software and Systems Modeling | Formal language theory | Big Data | Socket programming | Graphics
+[Other:]{.blue} Artificial Intelligence | Software and Systems Modeling | Formal language theory | Big Data | Socket programming | Graphics | Databases (SQL, MongoDB)
 
 [Programming competitions:]{.blue} ChaosStack | Graphisoft | NNG | Google Hashcode
 
