@@ -10,13 +10,17 @@ margin-left: 0.5in
 margin-right: 0.5in
 ---
 
-<i class="fas fa-mobile-alt"> +36 20 929 3193</i> | <i class="far fa-envelope"> jakov.rabinovits@gmail.com</i> | <i class="fab fa-linkedin"> [jakov-rabinovits](http://linkedin.com/in/jakov-rabinovits)</i> | <i class="fab fa-github"> [YaShock](http://github.com/YaShock)</i>
+<i class="fas fa-mobile-alt"> +45 50 30 65 62</i> | <i class="far fa-envelope"> jakov.rabinovits@gmail.com</i> | <i class="fab fa-linkedin"> [jakov-rabinovits](http://linkedin.com/in/jakov-rabinovits)</i> | <i class="fab fa-github"> [YaShock](http://github.com/YaShock)</i>
 
 ## Work Experience
 
+### **Milestone Systems** | Student Assistant, Research
+`October 2020 - Present`
+Currently working as a student software developer in the research team. I am working with data analytics with Spark on Scala, Kafka, ontologies, RDF databases.
+
 ### **SignAll Technologies** | Research And Development Engineer
-`February 2018 - Present`
-Currently working there as a research and development engineer. My tasks are researching, implementing machine learning and domain specific algorithms, REST APIs, ASP MVC web pages, designing socket communication protocols, 3D visualizations with custom graphics engine, maintaining and extending custom database solutions and writing service applications. Some of the libraries, frameworks used: OpenCV, Eigen, Boost ASIO, ASP.NET MVC/Web, WPF, PostgreSQL.
+`February 2018 - October 2020`
+I have worked there as a research and development engineer. My tasks included researching, implementing machine learning and domain specific algorithms, REST APIs, ASP MVC web pages, designing socket communication protocols, 3D visualizations with custom graphics engine, maintaining and extending custom database solutions and writing service applications. Some of the libraries, frameworks used: OpenCV, Eigen, Boost ASIO, ASP.NET MVC/Web, WPF, PostgreSQL.
 
 ### **Cloudera** | Software Engineering Intern
 `June 2017 - Aug 2017`
@@ -28,7 +32,7 @@ I have been tutoring C++, C#, Java, Python and general programming principles an
 
 ## Skills
 
-[Programming languages:]{.blue} C | C++ | D | Java | C# | Swift | Python | JavaScript
+[Programming languages:]{.blue} C | C++ | D | Java | C# | Swift | Python | JavaScript | Scala
 
 [Frameworks:]{.blue} VueJS | Qt | .NET | wxWidgets | Gtk | Swing | SFML | OpenGL | ANTLR | JavaCC | Flask | ASP.NET | Web API | MVC | OpenCV | Eigen | Boost ASIO
 
@@ -73,8 +77,12 @@ A 2D tile based tower defense game. It was written as a short project for univer
 ## Education
 
 ###
+**University of Copenhagen**
+`2020 - Present`
+IT & Cognition MSc  
+
 **Budapest University of Technology and Economics**
-`2014-2018`
+`2014 - 2018`
 Computer Science Engineering BSc (Systems Engineering specialization)  
 Thesis topic: Ontological-semantic text analysis
 
