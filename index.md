@@ -4,8 +4,8 @@
 
 ---
 title: Jakov [Rabinovits]{.lastName}
-margin-top: 1in
-margin-bottom: 1in
+margin-top: 0.8in
+margin-bottom: 0.8in
 margin-left: 0.5in
 margin-right: 0.5in
 ---
