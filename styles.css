@@ -1,3 +1,6 @@
+h1 {
+}
+
 .firstName {
     color: black;
 }
@@ -22,7 +25,7 @@ p {
 }
 
 /* Two column mode only for wide screens */
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 800px) {
     body, div, span, h1, h2, h3,
     p, a, code, strike, strong,
     b, u, i, table, tbody,
@@ -44,7 +47,7 @@ p {
     }
 
     h1 {
-        left: 28%;
+        left: 18%;
     }
 
     h2 {
