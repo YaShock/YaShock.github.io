@@ -23,7 +23,7 @@ margin-right: 0.5in
 
 ### **SignAll Technologies** `February 2018 - October 2020` | Research And Development Engineer
 
-- Tasks included: researching, implementing machine learning and domain specific algorithms, webserver applications, designing socket communication protocols, 3D visualizations, creating database solutions and writing service applications
+- Tasks included: researching, implementing machine learning and domain specific algorithms, webserver applications, designing socket communication protocols, 3D visualizations, creating database solutions and writing service applications, designing machine learning socket & communication frameworks
 
 ### **Cloudera** `June 2017 - Aug 2017` | Software Engineering Intern
 
@@ -38,9 +38,9 @@ margin-right: 0.5in
 
 [Programming languages:]{.blue} C | C++ | D | Java | C# | Swift | Python | JavaScript | Scala | R
 
-[Frameworks:]{.blue} VueJS | Qt | .NET | wxWidgets | Gtk | Swing | SFML | OpenGL | ANTLR | JavaCC | Flask | OpenCV | Eigen | Boost ASIO | Numpy | TensorFlow | NLTK
+[Frameworks:]{.blue} VueJS | Qt | .NET | wxWidgets | Gtk | Swing | SFML | OpenGL | ANTLR | JavaCC | Flask | OpenCV | Eigen | Boost ASIO | Numpy | TensorFlow | NLTK | Pandas | jQuery | NodeJS | Express.js
 
-[Other tools:]{.blue} CMake | Github | SQL | Elasticsearch | Heroku | Jinja | IIS Web Server | Jupyter Notebook
+[Other tools:]{.blue} CMake | Github | SQL | LaTeX | Elasticsearch | Heroku | Jinja | IIS Web Server | Jupyter Notebook
 
 [Mathematics:]{.blue} Linear algebra | Discrete maths | Theory of algorithms | Probability theory
 
