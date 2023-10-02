@@ -16,6 +16,10 @@ margin-right: 0.5in
 
 ## Work Experience
 
+### **Milestone Systems** `October 2020 - October 2022` | Student Assistant, Research (Part Time)
+
+- Worked part time as a student research assistant on data analytics, ontologies, research tasks and developing prototypes
+
 ### **University of Copenhagen** `Sep 2021 - Dec 2021` | Teaching Assistant (Scientific Programming, Python)
 
 - Teaching assistant in Scientific Programming (Python) course
@@ -40,7 +44,7 @@ margin-right: 0.5in
 
 [Frameworks:]{.blue} VueJS | Qt | .NET | wxWidgets | Gtk | Swing | SFML | OpenGL | ANTLR | JavaCC | Flask | OpenCV | Eigen | Boost ASIO | Numpy | TensorFlow | NLTK | Pandas | jQuery | NodeJS | Express.js
 
-[Other tools:]{.blue} CMake | Github | SQL | LaTeX | Elasticsearch | Heroku | Jinja | IIS Web Server | Jupyter Notebook
+[Other tools:]{.blue} CMake | Github | SQL | LaTeX | Elasticsearch | Heroku | Jinja | IIS Web Server | Jupyter Notebook | GraphQL
 
 [Mathematics:]{.blue} Linear algebra | Discrete maths | Theory of algorithms | Probability theory
 

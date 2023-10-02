@@ -25,7 +25,7 @@ p {
 }
 
 ul {
-    margin-top: 0.3em;
+    margin-top: 0.1em;
 }
 
 /* Two column mode only for wide screens */
@@ -120,7 +120,12 @@ h2 {
 }
 
 h3 {
+    margin-top: 0;
     margin-bottom: 0;
+}
+
+ul {
+    margin-bottom: 0.2em;
 }
 
 code {
